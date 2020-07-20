@@ -1,0 +1,6 @@
+.imagenRedonda {
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    border:10px solid #666;
+}
