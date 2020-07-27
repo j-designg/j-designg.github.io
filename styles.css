@@ -1,5 +1,5 @@
-#capa1{ position:relative; z-index:0; background-color:none; }
-#capa2{ position:relative;float: left; z-index:1; }
+#capa1{ position:relative;}
+#capa2{ position:relative;float: left;}
 
 P.titulo {text-align: center}
 
